@@ -1,6 +1,6 @@
 // ignore this error, it works fine
 mapboxgl.accessToken =
-  "pk.eyJ1Ijoiam13ZW5kYSIsImEiOiJja3ZndGZrMXRjNHhjMnFxNnlpcWVqZDE0In0.tH-DplQHTRm4ReAGnzEK-w";
+  "ADD YOUR TOKEN HERE";
 
 
 const map = new mapboxgl.Map({
